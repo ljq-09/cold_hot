@@ -1,6 +1,0 @@
-id,age,access,size_mb,biz,current_tier
-1,10,100,50,pay,hot
-2,45,2,80,archive,hot
-3,60,1,120,audit,hot
-4,3,500,10,realtime,hot
-5,90,0,300,legacy,hot
