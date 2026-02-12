@@ -1,9 +1,0 @@
-# Runtime artifacts
-logs/*.log
-var/tasks/*.task
-var/tasks/*.report
-data/*.migrated.csv
-
-# Keep directories
-!logs/.gitkeep
-!var/tasks/.gitkeep
